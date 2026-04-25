@@ -134,3 +134,4 @@ Nebula-V/
 Nebula-V is an AI-enhanced space habitat design simulation that combines Unity-based 3D interaction with artificial intelligence systems.
 
 It transforms space habitat planning into an interactive experience that blends design, learning, and simulation into one unified environment.
+linkedin->https://www.linkedin.com/posts/sadeen-abu-khadra-1584ab295_nasaspaceapps-teamnebula-marsvision-activity-7380929998687207424-MYjf?utm_source=share&utm_medium=member_ios&rcm=ACoAAEdxNRQBIAP6xHsqIGn8Vk8iIDmKFcvLT9M
